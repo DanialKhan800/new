@@ -1,4 +1,0 @@
-hello
-Added a new line
-and another line
-4th line added
